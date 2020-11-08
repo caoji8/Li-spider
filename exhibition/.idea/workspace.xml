@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b846ae46-9ee2-4766-af3d-ed8509185255" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>qq</find>
+      <find>zhname</find>
+      <find>zhcategory</find>
+      <find>zhshorttitle</find>
+      <find>feenum</find>
+      <find>ROBOTSTXT_OBEY</find>
+      <find>hostpost</find>
+      <find>col</find>
+      <find>print</find>
+      <find>get_proxy</find>
+      <find>Request failed!The proxy is None</find>
+      <find>The proxy is None</find>
+      <find>f pool[0] == proxy:</find>
+      <find>proxies have been fetched</find>
+      <find>get_available_proxies</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.row</replace>
+      <replace>self.col</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1UUylSddzKS6G6xhCUIIjUVYxg8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="downloadhtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exhibition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exhibition/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exhibition/spiders/downloadhtml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="middlewares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exhibition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exhibition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exhibition/middlewares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exhibition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exhibition/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exhibition/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exhibition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exhibition/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exhibition/spiders/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.middlewares" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.downloadhtml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b846ae46-9ee2-4766-af3d-ed8509185255" name="Default Changelist" comment="" />
+      <created>1572264912693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572264912693</updated>
+      <workItem from="1572264916967" duration="2799000" />
+      <workItem from="1572269588774" duration="10478000" />
+      <workItem from="1572309373989" duration="12498000" />
+      <workItem from="1572321988575" duration="27478000" />
+      <workItem from="1572399111963" duration="18352000" />
+      <workItem from="1572440416802" duration="7519000" />
+      <workItem from="1572484968655" duration="3036000" />
+      <workItem from="1572492442646" duration="2086000" />
+      <workItem from="1572498187075" duration="5588000" />
+      <workItem from="1572505212933" duration="17127000" />
+      <workItem from="1572534395595" duration="4316000" />
+      <workItem from="1572573447196" duration="2744000" />
+      <workItem from="1572593960000" duration="897000" />
+      <workItem from="1573381378119" duration="19000" />
+      <workItem from="1573381478769" duration="90000" />
+      <workItem from="1573437972574" duration="755000" />
+      <workItem from="1573438742143" duration="2611000" />
+      <workItem from="1573449645547" duration="1210000" />
+      <workItem from="1573571939731" duration="1421000" />
+      <workItem from="1573574105312" duration="902000" />
+      <workItem from="1573576325762" duration="46000" />
+      <workItem from="1573577083726" duration="377000" />
+      <workItem from="1573605599398" duration="20000" />
+      <workItem from="1575284974306" duration="1403000" />
+      <workItem from="1575286837378" duration="1166000" />
+      <workItem from="1575424587058" duration="394000" />
+      <workItem from="1575425624544" duration="427000" />
+      <workItem from="1575622452496" duration="2000" />
+      <workItem from="1575977620855" duration="11000" />
+      <workItem from="1583480707935" duration="103000" />
+      <workItem from="1584718178916" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="163" key="FileChooserDialogImpl" timestamp="1575977630398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="163" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1575977630398" />
+    <state x="516" y="252" key="cloudConfig.SelfSettingsDialog" timestamp="1575426031838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="252" key="cloudConfig.SelfSettingsDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1575426031838" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/exhibition$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1572347956147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exhibition/spiders" />
+    <SUITE FILE_PATH="coverage/exhibition$test.coverage" NAME="test Coverage Results" MODIFIED="1572536244602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exhibition/spiders" />
+    <SUITE FILE_PATH="coverage/exhibition$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1572523815289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exhibition" />
+    <SUITE FILE_PATH="coverage/exhibition$downloadhtml.coverage" NAME="downloadhtml Coverage Results" MODIFIED="1572335161252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exhibition/spiders" />
+  </component>
+</project>

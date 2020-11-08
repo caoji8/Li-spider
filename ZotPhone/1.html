@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<property>
+    <name>yarn.resource.hostname</name>
+    <value>master1</value>
+</property>
+<property>
+    <name>yarn.nodemanager.aux-services</name>
+    <value>mapreduce_shuffle</value>
+</property>
+<property>
+    <name>dfs.replication</name>
+    <value>3</value>
+</property>
+<property>
+    <name>dfs.nomenode.secondary.http-address</name>
+    <value>master1:50090</value>
+</property>
+
+</body>
+</html>
